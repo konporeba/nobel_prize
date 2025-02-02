@@ -4,4 +4,4 @@ In addition to the honor, prestige, and substantial prize money, the recipient a
 
 The Nobel Foundation has made a dataset available of all prize winners from the outset of the awards from 1901 to 2023. The dataset used in this project is from the Nobel Prize API and is available in the `nobel.csv` file in the `data` folder.
 
-In this project, you'll get a chance to explore and answer several questions related to this prizewinning data. And we encourage you then to explore further questions that you're interested in!
+In this project, I got a chance to explore and answer several questions related to this prizewinning data.
